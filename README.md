@@ -23,3 +23,6 @@
    - Aby wyświetlić używanie zasobów kontenera, w tym pamięć:
 
      docker stats limit512
+     
+     
+powinno chyba działać :/.
