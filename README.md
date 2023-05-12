@@ -26,4 +26,5 @@
      
      
 powinno chyba działać :/.
-![picture](lab8.png)
+
+![picture](lab8.jpg)
