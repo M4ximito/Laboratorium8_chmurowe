@@ -26,3 +26,4 @@
      
      
 powinno chyba działać :/.
+![picture](lab8.png)
