@@ -17,13 +17,13 @@
 
 3. Zadanie 4
 
-   - Aby sprawdzić kontener i sprawdzić punkt montowania, wykonaj:
+   - Aby sprawdzić kontener i sprawdzić punkt montowania:
 
      bash
      docker inspect limit512
      
 
-   - Aby wyświetlić używanie zasobów kontenera, w tym pamięć, wykonaj:
+   - Aby wyświetlić używanie zasobów kontenera, w tym pamięć:
 
      bash
      docker stats limit512
